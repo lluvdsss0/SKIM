@@ -1,0 +1,170 @@
+[
+  {
+    "text": "SKIM",
+    "font": 470.00000655200654,
+    "tracking": -20.895311058558566,
+    "x": 869.1125021621622,
+    "y": 596.4690336936937,
+    "family": "SkimCondensed, \"Bodoni MT Condensed\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "contemporary",
+    "font": 76.5934065934066,
+    "tracking": -2.4780506480823874,
+    "x": 277.8,
+    "y": 300.0234234234234,
+    "family": "SkimArial, Arial, sans-serif"
+  },
+  {
+    "text": "culture",
+    "font": 88.82353577106518,
+    "tracking": -4.465015962221988,
+    "x": 770.3000021621622,
+    "y": 284.7423445045045,
+    "family": "\"Times New Roman\", serif"
+  },
+  {
+    "text": "is",
+    "font": 181.0769230769231,
+    "tracking": -44.22317199707031,
+    "x": 1085.3307220458985,
+    "y": 212.66666666666669,
+    "family": "SkimCondensed, \"Bodoni MT Condensed\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "built",
+    "font": 88.05970149253731,
+    "tracking": -5.3903114318847685,
+    "x": 1328.8,
+    "y": 294.46036036036037,
+    "family": "SkimBodoni, \"Bodoni MT\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "from",
+    "font": 89.27536858597728,
+    "tracking": -4.957355329391892,
+    "x": 427.40000216216214,
+    "y": 346.8333354954955,
+    "family": "\"Times New Roman\", serif"
+  },
+  {
+    "text": "respected",
+    "font": 83.84615384615385,
+    "tracking": 1.9566528320312528,
+    "x": 666.5,
+    "y": 354.4873873873874,
+    "family": "SkimBodoni, \"Bodoni MT\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "moments",
+    "font": 113.39285714285714,
+    "tracking": 2.869725545247396,
+    "x": 1011.2,
+    "y": 332.06216216216217,
+    "family": "SkimCondensed, \"Bodoni MT Condensed\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "small",
+    "font": 79.17808219178082,
+    "tracking": -4.963455963134763,
+    "x": 567.6,
+    "y": 417.6054054054054,
+    "family": "SkimArial, Arial, sans-serif"
+  },
+  {
+    "text": "combinations",
+    "font": 82.95774647887325,
+    "tracking": -2.6789894797585236,
+    "x": 797.7,
+    "y": 416.4873873873874,
+    "family": "Times New Roman"
+  },
+  {
+    "text": "and",
+    "font": 84.93150684931507,
+    "tracking": -3.684008789062503,
+    "x": 2.0999999999999996,
+    "y": 472.96036036036037,
+    "family": "SkimArial, Arial, sans-serif"
+  },
+  {
+    "text": "new",
+    "font": 123.55555555555556,
+    "tracking": 2.8862365722656307,
+    "x": 229.7,
+    "y": 439.5900900900901,
+    "family": "SkimCondensed, \"Bodoni MT Condensed\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "perspectives",
+    "font": 76.73912886799845,
+    "tracking": -3.0163142734407002,
+    "x": 401.4999992792793,
+    "y": 473.4234227027027,
+    "family": "SkimArial, Arial, sans-serif"
+  },
+  {
+    "text": "collection",
+    "font": 88.05970149253731,
+    "tracking": -6.928154161241322,
+    "x": 930.8,
+    "y": 474.5603603603604,
+    "family": "SkimBodoni, \"Bodoni MT\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "of",
+    "font": 80.8108108108108,
+    "tracking": -0.3426574707031307,
+    "x": 1250.7,
+    "y": 480.3963963963964,
+    "family": "SkimArial, Arial, sans-serif"
+  },
+  {
+    "text": "visual",
+    "font": 124.61538461538461,
+    "tracking": -5.818268432617185,
+    "x": 1504.6,
+    "y": 440.0810810810811,
+    "family": "SkimCondensed, \"Bodoni MT Condensed\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "experiments",
+    "font": 78.69565217391305,
+    "tracking": -4.056187133789064,
+    "x": 678,
+    "y": 534.4054054054054,
+    "family": "SkimArial, Arial, sans-serif"
+  },
+  {
+    "text": "fragments",
+    "font": 133.64705882352942,
+    "tracking": -5.244272613525389,
+    "x": 276.4,
+    "y": 548.018018018018,
+    "family": "SkimCondensed, \"Bodoni MT Condensed\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "and",
+    "font": 84.93150684931507,
+    "tracking": -3.684008789062503,
+    "x": 809.3,
+    "y": 589.7603603603603,
+    "family": "SkimArial, Arial, sans-serif"
+  },
+  {
+    "text": "observations",
+    "font": 88.05970149253731,
+    "tracking": -7.693437056107954,
+    "x": 1119.4,
+    "y": 591.2603603603603,
+    "family": "SkimBodoni, \"Bodoni MT\", \"Times New Roman\", serif"
+  },
+  {
+    "text": "long articles vanish",
+    "font": 76.8817188801705,
+    "tracking": -3.5926732872140197,
+    "x": 258.4999992792793,
+    "y": 921.9234227027026,
+    "family": "SkimArial, Arial, sans-serif"
+  }
+]

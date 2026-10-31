@@ -1,0 +1,75 @@
+{
+  "hold_begins_on_entry": true,
+  "animation_without_extra_gesture": true,
+  "one_start_despite_wheels": 1,
+  "hold_released_at_3s": true,
+  "no_queued_scroll_or_auto_advance": true,
+  "held_at_section_anchor": true,
+  "new_intent_moves_page": true,
+  "return_no_hold": true,
+  "scan_safe_all_samples": true,
+  "scan_black_and_white_move": true,
+  "right_discrete_states": true,
+  "scan_back_to_origin": true,
+  "scan_tip": true,
+  "phrase_samples": [
+    0.134444,
+    0.764,
+    1.0,
+    0.329333,
+    0.0
+  ],
+  "bold_keeps_geometry": true,
+  "bold_keeps_color": true,
+  "bold_and_fill": {
+    "bold": 21,
+    "total": 42,
+    "weight": "700",
+    "width": 0.4000328947368421,
+    "left": 1,
+    "counter": "translateX(-700%)"
+  },
+  "all_locks_notifications": true,
+  "notifications_dont_restart_hold": true,
+  "notification_escape": true,
+  "manual_slider_during_hold": {
+    "value": "38",
+    "active": 8,
+    "starts": 1
+  },
+  "final_partial_words_only": {
+    "active": null,
+    "arrows": "0",
+    "stars": "0"
+  },
+  "final_timeline": [
+    {
+      "active": 9,
+      "arrows": 0,
+      "stars": 0
+    },
+    {
+      "active": 9,
+      "arrows": 0.761,
+      "stars": 0
+    },
+    {
+      "active": 9,
+      "arrows": 1,
+      "stars": 0.7165
+    },
+    {
+      "active": null,
+      "arrows": 1,
+      "stars": 1
+    }
+  ],
+  "unique_translations": true,
+  "translation_examples": [
+    "\u0412\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u044b\u0439visual",
+    "\u0411\u0435\u0433\u043b\u043e \u043f\u0440\u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044ceng idiom"
+  ],
+  "tip_in_viewport": true,
+  "reduced_no_hold": true,
+  "errors": []
+}

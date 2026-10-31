@@ -1,0 +1,227 @@
+{
+  "scene_2": {
+    "idle_stops": true,
+    "small_scroll_changes": true,
+    "reverse_restores": true,
+    "after_full_scroll_still_linked": true
+  },
+  "scene_3": {
+    "idle_stops": true,
+    "small_scroll_changes": true,
+    "reverse_restores": true,
+    "after_full_scroll_still_linked": true
+  },
+  "scene_4": {
+    "idle_stops": true,
+    "small_scroll_changes": true,
+    "reverse_restores": true,
+    "after_full_scroll_still_linked": true
+  },
+  "scene_5": {
+    "idle_stops": true,
+    "small_scroll_changes": true,
+    "reverse_restores": true,
+    "after_full_scroll_still_linked": true
+  },
+  "scene_6": {
+    "idle_stops": true,
+    "small_scroll_changes": true,
+    "reverse_restores": true,
+    "after_full_scroll_still_linked": true
+  },
+  "scroll_engine_no_lock": {
+    "noActiveHold": true,
+    "noOnceFlag": true
+  },
+  "folders_390": {
+    "records": [
+      {
+        "progress": 0,
+        "maxShift": 1307,
+        "firstFull": true,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 193.78125
+      },
+      {
+        "progress": 0.4996597007028379,
+        "maxShift": 1307,
+        "firstFull": false,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 193.78125
+      },
+      {
+        "progress": 1,
+        "maxShift": 1307,
+        "firstFull": false,
+        "lastFull": true,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 193.78125
+      }
+    ],
+    "startFull": true,
+    "endFull": true,
+    "verticalSafe": true
+  },
+  "overflow_390": false,
+  "folders_768": {
+    "records": [
+      {
+        "progress": 0,
+        "maxShift": 929,
+        "firstFull": true,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 196.46875
+      },
+      {
+        "progress": 0.5000648651257931,
+        "maxShift": 929,
+        "firstFull": false,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 196.46875
+      },
+      {
+        "progress": 1,
+        "maxShift": 929,
+        "firstFull": false,
+        "lastFull": true,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 196.46875
+      }
+    ],
+    "startFull": true,
+    "endFull": true,
+    "verticalSafe": true
+  },
+  "overflow_768": false,
+  "folders_1680": {
+    "records": [
+      {
+        "progress": 0,
+        "maxShift": 861.2276700000002,
+        "firstFull": true,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 244.78125
+      },
+      {
+        "progress": 0.5003364188260059,
+        "maxShift": 861.2276700000002,
+        "firstFull": false,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 244.78125
+      },
+      {
+        "progress": 0.9998526140145921,
+        "maxShift": 861.2276700000002,
+        "firstFull": false,
+        "lastFull": true,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 244.78125
+      }
+    ],
+    "startFull": true,
+    "endFull": true,
+    "verticalSafe": true
+  },
+  "overflow_1680": false,
+  "folders_1920": {
+    "records": [
+      {
+        "progress": 0,
+        "maxShift": 644.6097500000001,
+        "firstFull": true,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 183.125
+      },
+      {
+        "progress": 0.5000043403154542,
+        "maxShift": 644.6097500000001,
+        "firstFull": false,
+        "lastFull": false,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 183.125
+      },
+      {
+        "progress": 1,
+        "maxShift": 644.6097500000001,
+        "firstFull": false,
+        "lastFull": true,
+        "allInsideItemsVerticallySafe": true,
+        "overflowX": "clip",
+        "overflowY": "visible",
+        "clipPath": "none",
+        "panelHeight": 183.125
+      }
+    ],
+    "startFull": true,
+    "endFull": true,
+    "verticalSafe": true
+  },
+  "overflow_1920": false,
+  "manual_sections": {
+    "7": {
+      "immediateScroll": true,
+      "noAnchorReturn": true
+    },
+    "8": {
+      "immediateScroll": true,
+      "noAnchorReturn": true
+    },
+    "9": {
+      "immediateScroll": true,
+      "noAnchorReturn": true
+    },
+    "10": {
+      "immediateScroll": true,
+      "noAnchorReturn": true
+    }
+  },
+  "interactive_results": {
+    "toastExists": true,
+    "rangeValue": "30",
+    "scatterMoved": true,
+    "translations": 12
+  },
+  "tip_still_works": true,
+  "reduced_motion": "none",
+  "errors": []
+}

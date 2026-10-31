@@ -1,0 +1,15 @@
+{
+  "keyboard_hold": true,
+  "keyboard_reverse_state": {
+    "active": null,
+    "scroll": 135,
+    "anchor": 1079,
+    "focus": "BODY"
+  },
+  "keyboard_reverse_exits": true,
+  "hover_bridge": true,
+  "hover_leave": true,
+  "mouse_range": "37",
+  "toast_timeout": true,
+  "errors": []
+}

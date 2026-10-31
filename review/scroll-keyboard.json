@@ -1,0 +1,13 @@
+{
+  "keyboard_tooltip": "visible",
+  "keyboard_slider_end": "38",
+  "keyboard_slider_home": "10",
+  "reverse_cover_state": true,
+  "reverse_scanner_state": true,
+  "wheel_cancels_snap": true,
+  "reduced_motion": {
+    "animation": "none",
+    "cardOpacity": "1"
+  },
+  "errors": []
+}

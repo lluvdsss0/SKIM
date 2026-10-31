@@ -1,0 +1,66 @@
+{
+  "interface": {
+    "sections": 10,
+    "forbidden": 0,
+    "text": "SKIM"
+  },
+  "focus_tooltip": "visible",
+  "touch_toggle": true,
+  "learn": true,
+  "pulse_visible": "running",
+  "pulse_offscreen": "paused",
+  "dome_all_trajectory_samples": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "dome_repeat": true,
+  "dome_persistence": true,
+  "slider_extremes": [
+    {
+      "length": 4705,
+      "overflow": false
+    },
+    {
+      "length": 561,
+      "overflow": false
+    },
+    {
+      "length": 1892,
+      "overflow": false
+    }
+  ],
+  "slider_persistence": "20",
+  "keyboard_End": "38",
+  "keyboard_Home": "10",
+  "reverse_scan": true,
+  "reverse_reading": true,
+  "cancel_correction": true,
+  "reduced_motion": {
+    "pulse": "none",
+    "cards": true
+  },
+  "layout_390": {
+    "overflow": false,
+    "textFits": true,
+    "font": 12
+  },
+  "mobile_dome": true,
+  "layout_768": {
+    "overflow": false,
+    "textFits": true,
+    "font": 12
+  },
+  "layout_1920": {
+    "overflow": false,
+    "textFits": true,
+    "font": 11.8
+  },
+  "errors": []
+}

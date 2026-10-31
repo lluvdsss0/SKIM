@@ -1,0 +1,4 @@
+﻿from browser import Browser
+import time,json
+b=Browser();b.call('Page.navigate',{'url':'http://127.0.0.1:8000/review/part2-sources.html'});time.sleep(.2)
+print(b.js('''(async()=>{const out=[];for(let i=1;i<=10;i++){const load=src=>new Promise((resolve,reject)=>{const n=new Image;n.onload=()=>resolve(n);n.onerror=reject;n.src=src});const a=await load('part2-before/screen-'+i+'.png'),b=await load('after/screen-'+i+'.png'),c=document.createElement('canvas');c.width=a.width-16;c.height=a.height;const ctx=c.getContext('2d');ctx.drawImage(a,0,0);const aa=ctx.getImageData(0,0,c.width,c.height).data;ctx.drawImage(b,0,0);const bb=ctx.getImageData(0,0,c.width,c.height).data;let count=0;for(let j=0;j<aa.length;j+=4)if(aa[j]!==bb[j]||aa[j+1]!==bb[j+1]||aa[j+2]!==bb[j+2])count++;out.push({scene:i,differentPixels:count})}return out})()'''))

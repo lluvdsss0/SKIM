@@ -1,0 +1,52 @@
+[
+  {
+    "screen": 1,
+    "meanAbsoluteRgbDifference": 8.13667324977566,
+    "pixelsChangedOver32Percent": 3.994604792797564
+  },
+  {
+    "screen": 2,
+    "meanAbsoluteRgbDifference": 6.381785199405681,
+    "pixelsChangedOver32Percent": 4.627355576150757
+  },
+  {
+    "screen": 3,
+    "meanAbsoluteRgbDifference": 6.584059681951248,
+    "pixelsChangedOver32Percent": 4.658579372434794
+  },
+  {
+    "screen": 4,
+    "meanAbsoluteRgbDifference": 10.867250687732616,
+    "pixelsChangedOver32Percent": 8.213347897082837
+  },
+  {
+    "screen": 5,
+    "meanAbsoluteRgbDifference": 2.209129926298601,
+    "pixelsChangedOver32Percent": 1.202116156935434
+  },
+  {
+    "screen": 6,
+    "meanAbsoluteRgbDifference": 7.435788023890433,
+    "pixelsChangedOver32Percent": 11.328445650734807
+  },
+  {
+    "screen": 7,
+    "meanAbsoluteRgbDifference": 1.204390455595275,
+    "pixelsChangedOver32Percent": 0.9099585153802021
+  },
+  {
+    "screen": 8,
+    "meanAbsoluteRgbDifference": 4.1571110449122495,
+    "pixelsChangedOver32Percent": 2.102255174544331
+  },
+  {
+    "screen": 9,
+    "meanAbsoluteRgbDifference": 16.511137222884212,
+    "pixelsChangedOver32Percent": 11.753221677920473
+  },
+  {
+    "screen": 10,
+    "meanAbsoluteRgbDifference": 22.866613155920383,
+    "pixelsChangedOver32Percent": 11.877289377289378
+  }
+]

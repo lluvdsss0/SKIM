@@ -1,0 +1,90 @@
+{
+  "geometry_390": {
+    "safe": true,
+    "inside": true,
+    "overflow": false
+  },
+  "lines_390": [
+    {
+      "startsAtBottom": true,
+      "endsAtYear": true,
+      "centered": true,
+      "opaque": "rgb(244, 244, 244)"
+    },
+    {
+      "startsAtBottom": true,
+      "endsAtYear": true,
+      "centered": true,
+      "opaque": "rgb(244, 244, 244)"
+    }
+  ],
+  "dome_gap_390": {
+    "headingAboveButton": true,
+    "buttonAboveDome": true,
+    "gap": 80.00907958758108
+  },
+  "scatter_390": true,
+  "copy_390": {
+    "fits": true
+  },
+  "mobile_tip": true,
+  "geometry_768": {
+    "safe": true,
+    "inside": true,
+    "overflow": false
+  },
+  "lines_768": [
+    {
+      "startsAtBottom": true,
+      "endsAtYear": true,
+      "centered": true,
+      "opaque": "rgb(244, 244, 244)"
+    },
+    {
+      "startsAtBottom": true,
+      "endsAtYear": true,
+      "centered": true,
+      "opaque": "rgb(244, 244, 244)"
+    }
+  ],
+  "dome_gap_768": {
+    "headingAboveButton": true,
+    "buttonAboveDome": true,
+    "gap": 80.00783422150141
+  },
+  "scatter_768": true,
+  "copy_768": {
+    "fits": true
+  },
+  "geometry_1920": {
+    "safe": true,
+    "inside": true,
+    "overflow": false
+  },
+  "lines_1920": [
+    {
+      "startsAtBottom": true,
+      "endsAtYear": true,
+      "centered": true,
+      "opaque": "rgb(244, 244, 244)"
+    },
+    {
+      "startsAtBottom": true,
+      "endsAtYear": true,
+      "centered": true,
+      "opaque": "rgb(244, 244, 244)"
+    }
+  ],
+  "dome_gap_1920": {
+    "headingAboveButton": true,
+    "buttonAboveDome": true,
+    "gap": 53.3681215245598
+  },
+  "scatter_1920": true,
+  "copy_1920": {
+    "fits": true
+  },
+  "touch_hold_discards_scroll": true,
+  "touch_range": "37",
+  "errors": []
+}

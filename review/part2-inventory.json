@@ -1,0 +1,300 @@
+[
+  {
+    "file": "Frame 64.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 1,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 65.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 17,
+      "rect": 15,
+      "path": 31,
+      "mask": 4,
+      "circle": 3,
+      "defs": 1,
+      "filter": 8,
+      "feFlood": 8,
+      "feColorMatrix": 8,
+      "feMorphology": 4,
+      "feOffset": 4,
+      "feGaussianBlur": 8,
+      "feComposite": 4,
+      "feBlend": 12,
+      "linearGradient": 4,
+      "stop": 8,
+      "clipPath": 5
+    }
+  },
+  {
+    "file": "Frame 66.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 2,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 67.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 1,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 68.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 1,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 69.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 1,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 70.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 19,
+      "rect": 7,
+      "path": 55,
+      "use": 10,
+      "mask": 5,
+      "circle": 5,
+      "defs": 1,
+      "filter": 18,
+      "feFlood": 18,
+      "feColorMatrix": 36,
+      "feMorphology": 18,
+      "feOffset": 18,
+      "feGaussianBlur": 18,
+      "feComposite": 18,
+      "feBlend": 36,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 71.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 1,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 72.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 27,
+      "rect": 9,
+      "path": 75,
+      "use": 14,
+      "mask": 7,
+      "circle": 9,
+      "defs": 1,
+      "filter": 26,
+      "feFlood": 26,
+      "feColorMatrix": 52,
+      "feMorphology": 26,
+      "feOffset": 26,
+      "feGaussianBlur": 26,
+      "feComposite": 26,
+      "feBlend": 52,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 73.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 48,
+      "rect": 17,
+      "path": 124,
+      "use": 30,
+      "mask": 15,
+      "circle": 20,
+      "defs": 1,
+      "filter": 47,
+      "feFlood": 47,
+      "feColorMatrix": 94,
+      "feMorphology": 47,
+      "feOffset": 47,
+      "feGaussianBlur": 47,
+      "feComposite": 47,
+      "feBlend": 94,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 74.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 2,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 75.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 1,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 76.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 1,
+      "rect": 2,
+      "path": 169,
+      "defs": 1,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 77.svg",
+    "dimensions": [
+      "1680",
+      "1079"
+    ],
+    "viewBox": "0 0 1680 1079",
+    "counts": {
+      "svg": 1,
+      "g": 9,
+      "rect": 2,
+      "path": 185,
+      "defs": 1,
+      "filter": 8,
+      "feFlood": 8,
+      "feColorMatrix": 16,
+      "feMorphology": 8,
+      "feOffset": 8,
+      "feGaussianBlur": 8,
+      "feComposite": 8,
+      "feBlend": 16,
+      "clipPath": 1
+    }
+  },
+  {
+    "file": "Frame 78.svg",
+    "dimensions": [
+      "1680",
+      "1369"
+    ],
+    "viewBox": "0 0 1680 1369",
+    "counts": {
+      "svg": 1,
+      "g": 4,
+      "rect": 4,
+      "path": 173,
+      "mask": 2,
+      "defs": 1,
+      "filter": 1,
+      "feFlood": 1,
+      "feBlend": 1,
+      "feGaussianBlur": 1,
+      "clipPath": 1
+    }
+  }
+]

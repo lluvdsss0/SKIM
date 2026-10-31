@@ -1,0 +1,11 @@
+{
+  "wheel_changes_progress": true,
+  "wheel_stop_stable": true,
+  "keyboard_scroll_free": true,
+  "notification_opens": true,
+  "leave_scattering_immediately": true,
+  "mouse_slider_value": "36",
+  "after_slider_scroll_free": true,
+  "touch_with_toast_scrolls": true,
+  "errors": []
+}

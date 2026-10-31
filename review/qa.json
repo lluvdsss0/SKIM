@@ -1,0 +1,104 @@
+{
+  "ready": true,
+  "tooltip": "true",
+  "learn": true,
+  "dome_trajectory": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "dome_repeat": true,
+  "slider": [
+    {
+      "length": 4705,
+      "overflow": false
+    },
+    {
+      "length": 591,
+      "overflow": false
+    },
+    {
+      "length": 2303,
+      "overflow": false
+    }
+  ],
+  "slider_persistence": "20",
+  "layout_1920": {
+    "overflow": false,
+    "svg": {
+      "x": 329.703125,
+      "y": 6553.421875,
+      "width": 1245.59375,
+      "height": 799.984375,
+      "top": 6553.421875,
+      "right": 1575.296875,
+      "bottom": 7353.40625,
+      "left": 329.703125
+    },
+    "stage": {
+      "x": 329.703125,
+      "y": 6553.421875,
+      "width": 1245.59375,
+      "height": 799.984375,
+      "top": 6553.421875,
+      "right": 1575.296875,
+      "bottom": 7353.40625,
+      "left": 329.703125
+    },
+    "copyFits": true
+  },
+  "layout_390": {
+    "overflow": false,
+    "svg": {
+      "x": 0,
+      "y": 3172.765625,
+      "width": 375,
+      "height": 240.84375,
+      "top": 3172.765625,
+      "right": 375,
+      "bottom": 3413.609375,
+      "left": 0
+    },
+    "stage": {
+      "x": 0,
+      "y": 3172.765625,
+      "width": 375,
+      "height": 240.84375,
+      "top": 3172.765625,
+      "right": 375,
+      "bottom": 3413.609375,
+      "left": 0
+    },
+    "copyFits": true
+  },
+  "layout_768": {
+    "overflow": false,
+    "svg": {
+      "x": 0,
+      "y": 4840.1875,
+      "width": 753,
+      "height": 483.609375,
+      "top": 4840.1875,
+      "right": 753,
+      "bottom": 5323.796875,
+      "left": 0
+    },
+    "stage": {
+      "x": 0,
+      "y": 4840.1875,
+      "width": 753,
+      "height": 483.609375,
+      "top": 4840.1875,
+      "right": 753,
+      "bottom": 5323.796875,
+      "left": 0
+    },
+    "copyFits": true
+  },
+  "errors": []
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "width": 320,
+    "height": 640,
+    "scenes": 6,
+    "progressSamples": 6,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "scenes": 6,
+    "progressSamples": 6,
+    "overflow": false
+  },
+  {
+    "width": 430,
+    "height": 932,
+    "scenes": 6,
+    "progressSamples": 6,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "scenes": 6,
+    "progressSamples": 6,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "scenes": 6,
+    "progressSamples": 6,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "height": 540,
+    "scenes": 6,
+    "progressSamples": 6,
+    "overflow": false
+  },
+  {
+    "width": 540,
+    "height": 768,
+    "scenes": 6,
+    "progressSamples": 6,
+    "overflow": false
+  }
+]
